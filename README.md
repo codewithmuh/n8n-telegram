@@ -1,4 +1,5 @@
 # AI Telegram Assistant – n8n Integration
+<img width="1920" height="1080" alt="DEPLOY REACT ON S3 (8)" src="https://github.com/user-attachments/assets/89a434df-e4a4-4f77-85dc-65c1c88e765e" />
 
 This project sets up an AI-powered assistant using n8n and integrates it with multiple tools to automate tasks based on user input received via Telegram.
 
